@@ -1,9 +1,9 @@
 # --- Obsidian local / machine-specific ---
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+Misalne/.obsidian/workspace.json
+Misalne/.obsidian/workspace-mobile.json
 
 # --- Obsidian cache ---
-.obsidian/cache/
+Misalne/.obsidian/cache/
 
 # --- OS junk ---
 .DS_Store
