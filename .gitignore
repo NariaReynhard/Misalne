@@ -1,0 +1,21 @@
+# --- Obsidian local / machine-specific ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# --- Obsidian cache ---
+.obsidian/cache/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Editor junk ---
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# --- Backup / temp files ---
+*.bak
+*.tmp
+*~
