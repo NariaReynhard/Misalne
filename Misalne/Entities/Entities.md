@@ -4,7 +4,9 @@ tags:
 aliases:
   - Entity
 ---
-Every intelligent living being is composed of a set of [[Entities]]. Those [[Entities]] can vary a lot but are depending on the specie. Two of them are common to every species. Those two are the "Primordial [[Entities]]" : the [[Flesh Entity]] and the [[Spirit Entity]].
+Every intelligent living being is composed of a set of [[Entities]]. Those [[Entities]] have a strong link with [[Mana]] and correspond to one kind of [[Mana]]. Every [[Entities]] composing an individual tend to link to the same kind of [[Mana]]. It is a vital component of an [[Entities|Entity]]. A complete exhaustion of [[Mana]] supplies implies death.
+
+Those [[Entities]] can vary a lot but are depending on the specie. Two of them are common to every species. Those two are the "Primordial [[Entities]]" : the [[Flesh Entity]] and the [[Spirit Entity]].
 
 Next, we have the four additional [[Entities]] specific to the [[Kitsunes]] specie : the [[Kitsune Aspect Entity]] ; the [[Kitsune Essence Entity]] ; the [[Kitsune Memory Entity]] and the [[Kitsune Capacity Entity]].
 

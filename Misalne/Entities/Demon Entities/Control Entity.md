@@ -1,1 +1,6 @@
+---
+tags:
+  - Demon
+  - Entity
+---
 This [[Entities|Entity]] allows the use of [[Demoniac Mana]] and ensure it's the one used by the creature. Having this [[Entities|Entity]] is the sole way to prevent the creature's other [[Entities]] from being annihilated by the [[Demoniac Mana]].

@@ -1,5 +1,5 @@
 ---
 tags:
-  - Specie
   - Demon
+  - Magic
 ---

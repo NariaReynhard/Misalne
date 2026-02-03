@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Entity  ",
@@ -46,6 +46,6 @@
   "repelStrength": 10.8333333333333,
   "linkStrength": 1,
   "linkDistance": 218,
-  "scale": 0.7132754626224376,
+  "scale": 0.3628873693012077,
   "close": false
 }
