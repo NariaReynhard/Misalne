@@ -5,13 +5,34 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Entity ",
+      "query": "tag:#Entity  ",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Specie",
+      "color": {
+        "a": 1,
+        "rgb": 5077780
+      }
+    },
+    {
+      "query": "tag:#Magic",
+      "color": {
+        "a": 1,
+        "rgb": 2443476
+      }
+    },
+    {
+      "query": "tag:#Places",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
@@ -25,6 +46,6 @@
   "repelStrength": 10.8333333333333,
   "linkStrength": 1,
   "linkDistance": 218,
-  "scale": 0.9999999999999966,
+  "scale": 0.7132754626224376,
   "close": false
 }
