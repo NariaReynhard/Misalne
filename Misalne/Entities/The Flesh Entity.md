@@ -1,0 +1,1 @@
+This entity represents the body of a creature.

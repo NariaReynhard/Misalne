@@ -1,0 +1,1 @@
+Every intelligent living being is composed of a set of entities. Those entities can vary a lot but are depending on the specie. Two of them are common to every species. Those two are the "Primordial entities" : [[The Flesh Entity]] and [[The Spirit Entity]] 
